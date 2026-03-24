@@ -47,7 +47,7 @@
 
 <header>
     <h1>🚀 Hello to AVIS DEVOPS Portal 🚀</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h3>Training | Development | Infra Consulting</h3>
 </header>
 
 <div class="container">
